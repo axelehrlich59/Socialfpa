@@ -30,5 +30,7 @@ function formControl() {
 
 
 
+
+
 inscriptionButton.addEventListener("click", formControl);
 

@@ -3,6 +3,14 @@
 #logo {
     font-size: 25px;
 }
+.navbar {
+  position: fixed;
+}
+
+#navbar--col {
+  position: sticky;
+}
+
 .navbar:before {
     text-decoration: none!important;
     content: "";
