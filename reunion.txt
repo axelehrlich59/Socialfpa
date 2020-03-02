@@ -1,0 +1,73 @@
+1ere Reunion (02/03/2020): Mises au point pour savoir ce que l'on veut faire, rechercher ce qui correspond au projet de reseaux social comme fonctionaliter (ajouter des amis ? publier un status ? mettre des notif ou des comm ? etc..) et mettre les idées dans la sand-box.
+
+Ce qu'on veut faire : 
+	Un reseau social
+
+De quel type ? (pro? divertissement?) : 
+	Pro 
+
+Pour qui ? :
+	Des formateur, des stagiaires, uniquement les membres de l'afpa ou exceptionellement des recruteurs partenaires
+
+Pour quoi ? :
+	Pour s'entraider dans l'apprentissage, permettre a tout les membre de l'afpa de toute la france de rentrer en contact, être au courant en direct des derniere actualiter de l'afpa (evenement, changement d'emploi du temps, faire des enquêtes plus précise directement ciblés) et enfin posibiliter d'etre reperer par les entreprise partenaires
+
+Comment ? :
+	Avec des publication(status, questionnaire, affiche), des possibiliter d'interagir en dessous de celle ci(commentaire), une messagerie instantaner pour communiquer/rentrer en contact, une possibiliter de s'ajouter en contact ou de se suivre, recevoir des notifications	
+
+Les fonctionnaliter principales mises a dispositions :
+	
+	Employer afpa, stagiaire et recruteur : 
+
+			General :
+					_ Barre de recherche
+
+			Perssonalisation/Contenu du profil :
+					_ Systeme d'image prédéfini avec choix de couleurs
+					_ Bordure bleu pour les garçon, rose pour les filles, vert pour les formateurs, violet pour les recruteur
+					_ Imformation/description (age/ formation / CV / objectif / perssonaliser avec un petit texte de presentation )
+					_ Profil visible hors compte sociafpa
+					
+	
+
+			Fonctionaliter de publication :
+					_ Possibiliter de publier des images
+					_ Du texte
+					_ Des fichier (pdf, etc..)
+					_ Des vidéo
+					_ Publier des liens ( c-a-d avec l'aperçus de lien )
+					_ Supprimer/modifier ses propres publications
+
+			
+			Fonctionaliter d'interaction lier au publication :
+				 	_ Commenter
+				       	_ Partager
+					_ Voter (pour le questionnaire)
+					_ Des + et des - ( signe d'interaction facebook-like)
+
+			Fonctionaliter de contact : 
+					_ Envoyer un message
+					_ Choisir qui peut me contacter (les gens de ma region , de mon centre, fille uniquement, garçon uniquement)
+					_ Messagerie instantanée
+
+
+	Employer afpa : 
+
+			Fonctionaliter de publication :
+					_ Faire un questionaire interactif
+					_ Supprimer/modifier les publications des stagiaire/recruteurs
+	
+	Employer afpa et recruteur :
+
+			Fonctionaliter de contact : 
+					_ Contacter n'importe qui peu importe les restriction configurer par les stagiaires
+
+
+CONCLUSION : 
+	Sociafpa est un réseau visant a faciliter la vie de formation aux stagiaires de l'afpa, ainsi que fluidifier les relations entre formateurs et éléves, permettre aux recruteurs de pouvoir intérargir avec les stagiaires par le biais de méssagerie instantanée et de publications.
+
+
+
+		
+				
+
