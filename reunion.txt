@@ -68,6 +68,19 @@ CONCLUSION :
 
 
 
-		
-				
+		============================================================================================================================================================================================================
+
+
+
+Récapitulatif de la 2ème réunion : 
+
+
+	2 methodes s'imposent : L'une d'entre elles consiste à fluidifier le site web via des méthodes ajax et l'utilisation de frameworks / L'autre consiste à génerer via php la totalitée du front et du back mais en contrepartie avec un manque de fluidité.	
+
+
+	Choix de la première méthode pour le projet sociafpa / Framework à définir.
+
+	Projet système de news en gestion php seule avec romuald.
+
+					
 
